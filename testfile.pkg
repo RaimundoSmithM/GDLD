@@ -2,4 +2,4 @@ v 3
 d testfile
 
 * ADO-FILES
-f ado/testfile.ado
+f testfile.ado
